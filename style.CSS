@@ -1,0 +1,37 @@
+h1,h2,h3,h4 {
+    color: crimson;
+    text-align: center;   
+}
+
+
+.header{
+background-color:blueviolet ;
+display:flex
+justify-content:space-between
+}
+.grid{ 
+    display: flex;
+     flex-wrap: wrap;
+      justify-content: space-evenly;
+      font-family: sans-serif;
+      border:solid;
+ } 
+
+ .item{
+    color:crimson;
+ }
+ .footer{
+display: flex;
+ justify-content: flex-end;
+ }
+  p,h2{ text-align: center;
+ }
+ body{
+    background-color:lightgrey;
+    color:lightgrey; 
+ 
+}
+
+a,img{border:none;}
+
+ 
